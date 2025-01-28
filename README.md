@@ -4,13 +4,20 @@ What can we do with spatio-temporal data from delivery orders ? The project is b
 The data is from 2020 in Helsinki. See the users (black) and the venues (red) on the map of Helsinki:
 
 ![User and Venues on the map](images/helsinki.png)
+<br>
+*Users and Venues locations on the map*
 
 ## Are users and venues related ?
 
 Yes! They seem to be related based on distance, as the visual below suggests. We can also verify this with subsequent distance analysis after obtaining the clusters.
 
 ![Users clusters](images/zones_users.png)
+<br>
+*Users clusters*
+<br>
 ![Venues clusters](images/zones_venues.png)
+<br>
+*Venue clusters*
 
 ## Can we improve the accuracy of the delivery time ?
 
