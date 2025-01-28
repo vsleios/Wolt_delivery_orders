@@ -5,4 +5,4 @@ The data is from 2020 in Helsinki. See the users (black) and the venues (red) he
 
 ## Are users and venues related ?
 
-Yes! They seems to be related based on distance, as we can see forom t
+Yes! They seem to be related based on distance, as the visual below suggests. We can also verify this with subsequent distance analysis after obtaining the clusters.
