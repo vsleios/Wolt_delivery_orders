@@ -32,3 +32,4 @@ We can look further for intra-cluster and inter-cluster distance averages of ord
 Yes! With an XGBoost model we can achieve a better estimation of the actual delivery time by 7.6%.
 
 ![results](images/metrics.png)
+<br>
