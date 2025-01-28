@@ -3,9 +3,9 @@ What can we do with spatio-temporal data from delivery orders ? The project is b
 
 The data is from 2020 in Helsinki. See the users (black) and the venues (red) on the map of Helsinki:
 
-![User and Venues on the map](images/helsinki.png)
+![User and Venue on the map](images/helsinki.png)
 <br>
-*Users and Venues locations on the map*
+*User and Venue locations on the map*
 
 ## Are users and venues related ?
 
@@ -33,3 +33,4 @@ Yes! With an XGBoost model we can achieve a better estimation of the actual deli
 
 ![results](images/metrics.png)
 <br>
+*ML model metrics*
