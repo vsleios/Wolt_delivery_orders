@@ -23,6 +23,10 @@ We cluster the 4D point cloud of the vectors (user longitude, user latitude, ven
 
 We can look further for intra-cluster and inter-cluster distance averages of orders for more insights!
 
+![intra-distsances](images/intra-distances.png)
+<br>
+*Intra-cluster mean distances*
+
 ## Can we improve the accuracy of the delivery time ?
 
 Yes! With an XGBoost model we can achieve a better estimation of the actual delivery time by 7.6%.
