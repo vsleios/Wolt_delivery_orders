@@ -19,6 +19,10 @@ Yes! They seem to be related based on distance, as the visual below suggests. We
 <br>
 *Venue clusters*
 
+We cluster the 4D point cloud of the vectors (user longitude, user latitude, venue longitude, venue latitude), so it accounts for user-venue connections! Then we project all the 4D points in their user-plane or venue-plane and color each projection according to the initial cluster it belongs to. The fact that the two projections appear to be well clustered on their 2D planes and that they also match, shows the importance of distance in the orders.
+
+We can look further for intra-cluster and inter-cluster distance averages of orders for more insights!
+
 ## Can we improve the accuracy of the delivery time ?
 
 Yes! With an XGBoost model we can achieve a better estimation of the actual delivery time by 7.6%.
